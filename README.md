@@ -1,2 +1,2 @@
 # .github
-special github repo for the TheBuildVox org
+special github repo for the TheBuildBox org
