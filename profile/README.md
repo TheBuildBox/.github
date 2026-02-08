@@ -15,7 +15,7 @@
 
 This is the home of the buildbox, a tool to build and package software projects in linux containers using pre-created container images.
 
-The main repo providing providing  the mechanisms to build the images as well as the [builbo](https://github.com/TheBuildBox/buildbox/blob/main/cli/builbo) command line tool is [buildbox](https://github.com/TheBuildBox/buildbox).
+The main repo providing the mechanisms to build the images as well as the [builbo](https://github.com/TheBuildBox/buildbox/blob/main/cli/builbo) command line tool is [buildbox](https://github.com/TheBuildBox/buildbox).
 
 `builbo` needs dpodman  or docker to run containersand can easily be installed to `/usr/local/bin`  on a Linux  or macOS system with  sudo privileges using the following command.
 
